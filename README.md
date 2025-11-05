@@ -5,3 +5,6 @@ in `lib/`, and example unit test in `test/`.
 
 
 git 공부하자
+
+
+첫번째 수정
