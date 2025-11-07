@@ -4,13 +4,10 @@ in `lib/`, and example unit test in `test/`.
 
 
 
-git 공부하자
-
-
-첫번째 수정
-
-두번째 수정
-
-..
-
-세번째 수정
+=======
+1(main): main
+=======
+2(dev):
+=======
+3(hotfix):hotfix1
+=======
