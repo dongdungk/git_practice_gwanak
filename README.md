@@ -12,3 +12,8 @@ in `lib/`, and example unit test in `test/`.
 ============
 
 '나는 maple'
+void add() {
+
+
+}
+//더하기 함수 만들기
